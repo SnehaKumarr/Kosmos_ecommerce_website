@@ -3,7 +3,7 @@
 Kosmos is a visually appealing and user-friendly **online shopping platform** built with pure **HTML**, **CSS**, and **JavaScript**. It allows users to explore fashion products, add them to a cart, and interact with multiple content sections — all within a static, client-side experience.
 
 ---
-## 🧾 Overview
+##  Overview
 
 
 Designed as a static web project, Kosmos demonstrates a complete e-commerce UI — ideal for showcasing design skills, learning frontend development, or serving as a foundation for integrating with a backend in the future.
@@ -73,7 +73,7 @@ This project focuses on:
 
 
 ---
-## 🔧 Planned Improvements
+##  Planned Improvements
 
 Key improvements planned:
 
