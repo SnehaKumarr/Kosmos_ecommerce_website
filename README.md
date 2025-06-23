@@ -55,17 +55,20 @@ Kosmos is a visually appealing and user-friendly **online shopping platform** bu
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-- **HTML5** – Semantic and accessible markup
-- **CSS3** – Layout using Flexbox, media queries, hover effects
-- **JavaScript (Vanilla)** – Dynamic interactions and mobile menu toggle
-- **Font Awesome** – For icons
-- **Google Fonts** – Rasa, Ubuntu, New Amsterdam, and Games fonts
+| Technology             | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **HTML5**              | Provides the semantic structure and layout of the web pages                |
+| **CSS3**               | Handles styling using Flexbox, Grid, media queries, and custom animations  |
+| **JavaScript (Vanilla)** | Adds dynamic functionality (mobile nav, interactivity, etc.)              |
+| **Font Awesome**       | Powers icons used across navigation, product cards, and footer             |
+| **Google Fonts**       | Typography using *Rasa*, *Ubuntu*, *New Amsterdam*, and *Games* fonts      |
+
 
 ---
 
 ## Contributions 
+Created by **Sneha Kumar** (NITRR)
 
-- Created by **Sneha Kumar** (NITRR)
 
