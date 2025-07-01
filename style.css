@@ -1111,7 +1111,8 @@ background-color:  #579dcc;
     }
 }
 
-@media (max-width:477px) {
+
+ @media (max-width:477px) {
     #header {
         padding: 10px 30px;
     }
@@ -1121,14 +1122,14 @@ background-color:  #579dcc;
         height: 30vh;
     }
     #model h1 {
-        font-size: 20px;
+        font-size: 1.25rem;
         
     }
     #model h2 {
-        font-size: 18px;
+        font-size: 1rem;
     }
     #model h3 {
-        font-size: 11px;
+        font-size: 0.75rem;
     }
     #model button{
         height: 16px;
@@ -1136,12 +1137,20 @@ background-color:  #579dcc;
         font-size: 0.75rem;
         font-weight: 600;
     }
+    #categories.secp h1{
+        font-size: 1.25rem;
+    }
+    #categories.secp h3{
+        font-size: 0.95rem;
+    }
+
     #categories button {
-        font-size: 12px;
+        font-size: 0.6rem;
         height: 30px;
         justify-content: center;
         line-height: 14px;
-        min-width: 80px;
+        min-width: 70px;
+        padding: 10px;
     }
     #product1  .pro {
         width: 100%;
