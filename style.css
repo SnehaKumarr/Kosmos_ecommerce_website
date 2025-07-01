@@ -1117,13 +1117,24 @@ background-color:  #579dcc;
     }
     #model {
         padding: 0 20px;
-        background-position: 50%;
+        background-position: 0%;
+        height: 30vh;
     }
     #model h1 {
-        font-size: 32px;
+        font-size: 20px;
+        
     }
     #model h2 {
-        font-size: 28px;
+        font-size: 18px;
+    }
+    #model h3 {
+        font-size: 11px;
+    }
+    #model button{
+        height: 16px;
+        padding: 18px;
+        font-size: 0.75rem;
+        font-weight: 600;
     }
     #categories button {
         font-size: 12px;
